@@ -1,1 +1,1 @@
-# fundamentos-de-la-estadistica
+# 5_semana_5_sesion_01_fubdamentos_de_probabilidad.ipynb
